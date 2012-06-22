@@ -72,6 +72,9 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Areas\Administracion\AdministracionAreaRegistration.cs" />
+    <Compile Include="Areas\Docentes\DocentesAreaRegistration.cs" />
+    <Compile Include="Areas\Estudiantes\EstudiantesAreaRegistration.cs" />
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\administracionController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
@@ -152,12 +155,30 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Areas\Administracion\Controllers\" />
+    <Folder Include="Areas\Administracion\Models\" />
+    <Folder Include="Areas\Administracion\Views\Shared\" />
+    <Folder Include="Areas\Docentes\Controllers\" />
+    <Folder Include="Areas\Docentes\Models\" />
+    <Folder Include="Areas\Docentes\Views\Shared\" />
+    <Folder Include="Areas\Estudiantes\Controllers\" />
+    <Folder Include="Areas\Estudiantes\Models\" />
+    <Folder Include="Areas\Estudiantes\Views\Shared\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\administracion\Index.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Areas\Administracion\Views\Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Areas\Docentes\Views\Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Areas\Estudiantes\Views\Web.config" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
