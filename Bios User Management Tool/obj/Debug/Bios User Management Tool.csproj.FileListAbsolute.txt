@@ -1,0 +1,7 @@
+C:\Users\TakeOff\Documents\GitHub\Students-Management-Tool\Bios User Management Tool\bin\Bios User Management Tool.dll
+C:\Users\TakeOff\Documents\GitHub\Students-Management-Tool\Bios User Management Tool\bin\Bios User Management Tool.pdb
+C:\Users\TakeOff\Documents\GitHub\Students-Management-Tool\Bios User Management Tool\bin\EntityFramework.dll
+C:\Users\TakeOff\Documents\GitHub\Students-Management-Tool\Bios User Management Tool\bin\EntityFramework.xml
+C:\Users\TakeOff\Documents\GitHub\Students-Management-Tool\Bios User Management Tool\obj\Debug\Bios User Management Tool.csprojResolveAssemblyReference.cache
+C:\Users\TakeOff\Documents\GitHub\Students-Management-Tool\Bios User Management Tool\obj\Debug\Bios User Management Tool.dll
+C:\Users\TakeOff\Documents\GitHub\Students-Management-Tool\Bios User Management Tool\obj\Debug\Bios User Management Tool.pdb

@@ -1,0 +1,8 @@
+C:\Users\TakeOff\Documents\GitHub\Students-Management-Tool\Bios User Management Tool.Tests\bin\Debug\Bios User Management Tool.Tests.dll.config
+C:\Users\TakeOff\Documents\GitHub\Students-Management-Tool\Bios User Management Tool.Tests\bin\Debug\Bios User Management Tool.Tests.dll
+C:\Users\TakeOff\Documents\GitHub\Students-Management-Tool\Bios User Management Tool.Tests\bin\Debug\Bios User Management Tool.Tests.pdb
+C:\Users\TakeOff\Documents\GitHub\Students-Management-Tool\Bios User Management Tool.Tests\bin\Debug\Bios User Management Tool.dll
+C:\Users\TakeOff\Documents\GitHub\Students-Management-Tool\Bios User Management Tool.Tests\bin\Debug\Bios User Management Tool.pdb
+C:\Users\TakeOff\Documents\GitHub\Students-Management-Tool\Bios User Management Tool.Tests\obj\Debug\Bios User Management Tool.Tests.csprojResolveAssemblyReference.cache
+C:\Users\TakeOff\Documents\GitHub\Students-Management-Tool\Bios User Management Tool.Tests\obj\Debug\Bios User Management Tool.Tests.dll
+C:\Users\TakeOff\Documents\GitHub\Students-Management-Tool\Bios User Management Tool.Tests\obj\Debug\Bios User Management Tool.Tests.pdb
